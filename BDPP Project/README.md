@@ -1,1 +1,1 @@
-Report and ML Notebook of my Big Data Parallel Programming Project "Implementing machine learning in Apache Spark Framework on IBM Cloud and Google Cloud Platform".
+Report and ML Notebook of the Project "Implementing machine learning in Apache Spark Framework on IBM Cloud and Google Cloud Platform" in the course Big Data Parallel Programming course at Halmstad University
